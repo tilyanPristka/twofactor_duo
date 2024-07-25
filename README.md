@@ -1,6 +1,6 @@
 <img src="https://1.tilyanpristka.id/images/tP-logo-rounded.png" height="70" align="right">
 
-# 2FA <img src="https://upload.wikimedia.org/wikipedia/commons/8/8b/Duo_Logo_Green.svg" height="30"> DUO for <img src="https://upload.wikimedia.org/wikipedia/commons/6/60/Nextcloud_Logo.svg" height="40"> Nextcloud Any Version (27, 28, 29)
+# 2FA <img src="https://upload.wikimedia.org/wikipedia/commons/8/8b/Duo_Logo_Green.svg" height="30"> DUO for <img src="https://upload.wikimedia.org/wikipedia/commons/6/60/Nextcloud_Logo.svg" height="40"> Nextcloud Any Version
 
 Experimental New Method Two-Factor DUO Universal Prompt for Nextcloud
 >Tested on Nextcloud versions 27, 28, and 29
