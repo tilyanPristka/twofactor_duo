@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<info xmlns:xsi= "http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="https://apps.nextcloud.com/schema/apps/info.xsd">
+	<id>twofactor_duo</id>
+	<name>Duo Universal Prompt</name>
+	<summary>two-factor DUO</summary>
+	<description>Duo Universal Prompt</description>
+	<version>9.9.999</version>
+	<licence>agpl</licence>
+	<author>Muhammad Ardyansyah</author>
+	<namespace>TwoFactorDuo</namespace>
+	<category>integration</category>
+	<category>security</category>
+	
+	<website>https://github.com/tilyanPristka/twofactor_duo#readme</website>
+	<bugs>https://github.com/tilyanPristka/twofactor_duo/issues</bugs>
+	<repository type="git">https://github.com/tilyanPristka/twofactor_duo.git</repository>
+	
+	<dependencies>
+		<nextcloud min-version="20" max-version="99"/>
+	</dependencies>
+	<two-factor-providers>
+		<provider>OCA\TwoFactorDuo\Provider\DuoProvider</provider>
+	</two-factor-providers>
+</info>
