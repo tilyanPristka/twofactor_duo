@@ -2,7 +2,7 @@
 
 # 2FA <img src="https://upload.wikimedia.org/wikipedia/commons/8/8b/Duo_Logo_Green.svg" height="30"> DUO for <img src="https://upload.wikimedia.org/wikipedia/commons/6/60/Nextcloud_Logo.svg" height="40"> Nextcloud Any Versions
 
-Experimental New Method Two-Factor DUO Universal Prompt for Nextcloud
+Experimental New Method Two-Factor DUO Universal Prompt (Duo Web SDK 4) for Nextcloud
 >Tested on Nextcloud versions 27, 28, and 29
 ## Configuration
 Add your duo configuration to your Nextcloud's `nextcloud/config/config.php` fils:
