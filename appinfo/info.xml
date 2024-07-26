@@ -5,7 +5,7 @@
 	<name>Duo Universal Prompt</name>
 	<summary>two-factor DUO</summary>
 	<description>Duo Universal Prompt</description>
-	<version>9.9.999</version>
+	<version>1.0.01</version>
 	<licence>agpl</licence>
 	<author>Muhammad Ardyansyah</author>
 	<namespace>TwoFactorDuo</namespace>
